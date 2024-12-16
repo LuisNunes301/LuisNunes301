@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Luis Nunes.png" >
+</p>
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNunes301&hide=html&layout=compact&theme=buefy" />  
 
