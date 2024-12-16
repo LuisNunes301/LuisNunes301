@@ -6,7 +6,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/LuisNunes30"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
+<a href="https://www.linkedin.com/in/LuisNunes30"><img src="linkedin.png" width="16"></img></a> [LinkedIn]((https://www.linkedin.com/in/luisnunes30/))  
 
 Here are some ideas to get you started:
 
