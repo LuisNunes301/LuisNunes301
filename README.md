@@ -2,7 +2,6 @@
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNunes301&hide=html&layout=compact&theme=buefy" />  
 
 
-[![ReadMe Card]((https://github.com/LuisNunes301/data_science_4me))](https://github.com/LuisNunes301/data_science_4me)
 
 
 Here are some ideas to get you started:
