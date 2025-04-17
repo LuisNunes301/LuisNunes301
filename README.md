@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="Luis Nunes.png" >
-</p>
+
 
 ---
 
 ### Olá me chamo Luis Vincius,soluciono problemas, atualmente trabalhando como desenvolvedor front-end. 🔧
-
----
-
 
 ---
 
