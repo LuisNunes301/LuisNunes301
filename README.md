@@ -4,11 +4,10 @@
 
 ---
 
-### Olá me chamo Luis Vincius, buscando ser um Data Science/Mlops/IA, atualmente trabalhando como estagiáro de engenharia de dados. 🔧
+### Olá me chamo Luis Vincius,soluciono problemas, atualmente trabalhando como desenvolvedor front-end. 🔧
 
 ---
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNunes301&hide=html&layout=compact&theme=buefy" />  
 
 ---
 
