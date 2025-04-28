@@ -2,7 +2,7 @@
 
 ---
 
-### Olá me chamo Luis Vincius,soluciono problemas, atualmente trabalhando como desenvolvedor front-end. 🔧
+### Olá me chamo Luis Vincius, soluciono problemas, desenvolvedor Full Stack. 🔧
 
 ---
 
