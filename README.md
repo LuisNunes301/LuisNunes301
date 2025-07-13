@@ -2,7 +2,7 @@
 
 ---
 
-### Olá me chamo Luis Vincius, soluciono problemas, desenvolvedor Full Stack. 🔧
+### Olá me chamo Luis Vincius, soluciono problemas, desenvolvedor. 🔧
 
 ---
 
